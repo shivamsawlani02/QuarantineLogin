@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "710302038323",
+    "firebase_url": "https://quarantine-login.firebaseio.com",
+    "project_id": "quarantine-login",
+    "storage_bucket": "quarantine-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710302038323:android:f105387147e296a3a5e646",
+        "android_client_info": {
+          "package_name": "com.example.loginpageforquarantine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710302038323-ntdd3eijp15mpvu7cl79oi35f7m92q73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginpageforquarantine",
+            "certificate_hash": "0285c8badfd0b185b8ba6a57dd624d98a9219ee0"
+          }
+        },
+        {
+          "client_id": "710302038323-qc42se1kri9qt1ri3p85p06k16s3drea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS6AxA5slTYEr2AQCLg_CSOSd1fyRLBKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710302038323-qc42se1kri9qt1ri3p85p06k16s3drea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
